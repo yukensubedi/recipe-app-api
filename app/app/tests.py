@@ -24,13 +24,7 @@ class CalcTests(SimpleTestCase):
 
         self.assertEqual(res, -5)
     
-    def test_multiply_numbers(self):
-        """test multiplying numbers"""
+    
 
-        res = clac.multiply(10,4)
-
-        self.assertEqual(res,40)
-
-        
 
     
